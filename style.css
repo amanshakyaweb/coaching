@@ -710,7 +710,7 @@
   /* ===== RESPONSIVE ===== */
   @media (max-width: 900px) {
     nav {justify-content: center;height: 51px;}
-    .hero-content { grid-template-columns: 1fr; text-align: center; }
+    .hero-content { grid-template-columns: 1fr; text-align: center; justify-content: center; }
     .hero-visual { display: none; }
     .hero-stats { justify-content: center; gap: 4px; }
     .hero-btns { justify-content: center; }
